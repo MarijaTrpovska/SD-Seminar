@@ -1,8 +1,8 @@
 table 50104 "CSD Seminar Comment Line"
 {
     Caption = 'Seminar Comment Line';
-    //LookupPageId = "CSD Seminar Comment List";
-    //DrillDownPageId = "CSD Seminar Comment List";
+    LookupPageId = "CSD Seminar Comment Sheet";
+    DrillDownPageId = "CSD Seminar Comment Sheet";
     fields
     {
         field(10; "Table Name"; Option)
